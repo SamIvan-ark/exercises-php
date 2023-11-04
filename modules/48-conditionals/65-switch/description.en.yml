@@ -110,7 +110,7 @@ theory: |
 
 instructions: |
 
-  Write a function, `getNumberExplanation()`, that describes a number passed to it. If there's no explanation available, it returns `null`:
+  Write a function, `getNumberExplanation()`, that describes a number passed to it. If there's no explanation available, it returns `just a number`:
 
   ```php
   <?php
